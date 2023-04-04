@@ -5,11 +5,11 @@ Log:
 DnsConfigPath: # ./dns.json Path to dns config 
 Nodes:
   -
-    PanelType: "NewV2board" # Panel type: SSpanel, V2board
+    PanelType: "V2board" # Panel type: SSpanel, V2board
     ApiConfig:
-      ApiHost: "YOUR_PANEL_URL" # 修改这里
-      ApiKey: "YOUR_TOKEN" # 修改这里
-      NodeID: 1
+      ApiHost: "https://mrping.org" # 修改这里
+      ApiKey: "Bg9DQ7Rt581xmYVl" # 修改这里
+      NodeID: 43
       NodeType: V2ray # Node type: V2ray, Shadowsocks, Trojan
       Timeout: 30 # Timeout for the api request
       EnableVless: false # Enable Vless for V2ray Type, Remote configuration first
