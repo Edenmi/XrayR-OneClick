@@ -7,10 +7,10 @@ Nodes:
   -
     PanelType: "V2board" # Panel type: SSpanel, V2board
     ApiConfig:
-      ApiHost: "https://panel.magicalweb.link" # 修改这里
-      ApiKey: "MMmmerfan1234566" # 修改这里
-      NodeID: 40
-      NodeType: V2ray # Node type: V2ray, Shadowsocks, Trojan
+      ApiHost: "https://panel.zhnet.co.uk" # 修改这里
+      ApiKey: "zh_link_ash_services" # 修改这里
+      NodeID: 1
+      NodeType: Shadowsocks # Node type: V2ray, Shadowsocks, Trojan
       Timeout: 30 # Timeout for the api request
       EnableVless: false # Enable Vless for V2ray Type, Remote configuration first
       EnableXTLS: false # Enable XTLS for V2ray and Trojan, emote configuration first
