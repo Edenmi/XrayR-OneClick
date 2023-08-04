@@ -7,8 +7,8 @@ Nodes:
   -
     PanelType: "V2board" # Panel type: SSpanel, V2board
     ApiConfig:
-      ApiHost: "https://panel.zhnet.co.uk" # 修改这里
-      ApiKey: "zh_link_ash_services" # 修改这里
+      ApiHost: "https://moelink.lol" # 修改这里
+      ApiKey: "moelink1145141919810" # 修改这里
       NodeID: 1
       NodeType: Shadowsocks # Node type: V2ray, Shadowsocks, Trojan
       Timeout: 30 # Timeout for the api request
