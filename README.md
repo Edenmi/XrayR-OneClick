@@ -1,7 +1,7 @@
 
 ### Install Command
 ```
-bash <(curl -Ls https://cdn.jsdelivr.net/gh/Edenmi/XrayR-OneClick/install.sh)
+bash <(curl -Ls https://cdn.jsdelivr.net/gh/TaliskOmao/XrayR-OneClick/install.sh)
 ```
 4. Complete the basic node information on the `V2Board` panel.
 ![Screenshot](https://files.xiami.com/cpp/07d8ec1a38a5462c3afbfac41413b8af/1622434730321.png)
